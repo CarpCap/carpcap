@@ -17,43 +17,75 @@ Here are some ideas to get you started:
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/carpcap/carpcap/refs/heads/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/carpcap/carpcap/refs/heads/output/github-contribution-grid-snake.svg">
 </picture> -->
+<div align="center">
 
-# Hi, I'm Carp 👋
+# 👋 Hi, I'm Carp
 
-Independent Software Engineer
+### Independent Software Engineer
 
-I build backend systems, automation tools and cloud solutions.
+Building backend systems, automation tools and cloud solutions.
 
-## What I do
+<br>
 
-* Backend development (Java / Go)
-* System architecture and API development
-* Payment integration
-* Data collection & web scraping
+🌐 https://carpcap.com
+💬 https://t.me/carpcap
+
+</div>
+
+---
+
+## 🚀 What I Do
+
+I design and build reliable software systems, from backend development to production deployment.
+
+### Backend & System Development
+
+* Backend development with **Java / Go**
+* RESTful API design and development
+* System architecture and performance optimization
+
+### Data & Automation
+
+* Data collection systems
+* Web scraping solutions
 * Automation tools development
-* Docker / Linux / Cloud deployment
+* Data processing workflows
+
+### Payment & Infrastructure
+
+* Payment gateway integration
+* Transaction system development
+* Docker / Linux server deployment
+* Cloud infrastructure setup
 * Cloudflare optimization
 
-## Services
+---
 
-I can help with:
+## 💼 Services
+
+I help businesses and teams with:
 
 * Custom software development
 * Backend system development
-* Data collection and processing systems
-* Payment gateway integration
+* Data collection and processing solutions
+* Payment integration
 * Server deployment and infrastructure setup
 * Existing system maintenance and optimization
 
-## Contact
+---
 
-Website:
+## 📫 Contact
+
+**Website**
+
 https://carpcap.com
 
-Telegram:
+**Telegram**
+
 https://t.me/carpcap
 
-GitHub:
+**GitHub**
+
 https://github.com/carpcap
 
 
