@@ -27,8 +27,7 @@ Building backend systems, automation tools and cloud solutions.
 
 <br>
 
-🌐 https://carpcap.com  
-💬 https://t.me/carpcap
+🌐 https://carpcap.com      💬 https://t.me/carpcap
 
 </div>
 
