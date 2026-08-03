@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 </picture> -->
 <div align="center">
 
-# 👋 Hi, I'm Carp
+# 👋 Hi, I'm CarpCap
 
 ### Independent Software Engineer
 
@@ -27,7 +27,7 @@ Building backend systems, automation tools and cloud solutions.
 
 <br>
 
-🌐 https://carpcap.com
+🌐 https://carpcap.com  
 💬 https://t.me/carpcap
 
 </div>
